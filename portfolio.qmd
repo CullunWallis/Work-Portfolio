@@ -1,0 +1,7 @@
+---
+title: "portfolio"
+format: html
+editor: visual
+---
+
+Portfolio will contain hyperlinks to your work - either to other github repos, publications, google scholar account, LinkedIn account *etc.,* (it will be the definitive, exhaustive set of your work).

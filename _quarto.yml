@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My work portfolio"
+  sidebar:
+   
+    style: docked
+    contents:
+      - text: "My name"
+        href: index.qmd
+      - text: "My research focus"
+        href: research_focus.qmd
+      - text: "My portfolio"
+        href: portfolio.qmd
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  page-footer:
+    center:
+      - text: "Built with love and Quarto"
+      - href: https://quarto.org
+format:
+  html:
+    css: styles.css

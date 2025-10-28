@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Index\nShort Blurb found at top of CV",
+    "crumbs": [
+      "My name"
+    ]
+  },
+  {
+    "objectID": "research_focus.html",
+    "href": "research_focus.html",
+    "title": "research_focus",
+    "section": "",
+    "text": "include a written statement about your focus as a researcher.",
+    "crumbs": [
+      "My research focus"
+    ]
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Portfolio will contain hyperlinks to your work - either to other github repos, publications, google scholar account, LinkedIn account etc., (it will be the definitive, exhaustive set of your work).",
+    "crumbs": [
+      "My portfolio"
+    ]
+  }
+]
